@@ -14,8 +14,7 @@ body{
     background-color: black;
 }
 .header{
-    position: fixed;
-    width: 100% !important;
+ 
     background-color: black !important;
     z-index: 99;
     
